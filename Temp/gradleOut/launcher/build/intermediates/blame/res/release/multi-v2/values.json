@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\YigtO\\Slingshot Prototype\\Temp\\gradleOut\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\YigtO\\Slingshot Prototype\\Temp\\gradleOut\\launcher\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "5,2,7",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "190,53,288",
+                        "endLines": "6,4,10",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "286,188,513"
+                    },
+                    "to": {
+                        "startLines": "4,6,9",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "180,280,418",
+                        "endLines": "5,8,12",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "275,413,640"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\YigtO\\Slingshot Prototype\\Temp\\gradleOut\\launcher\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "2,2",
+                        "startOffsets": "55,111",
+                        "endColumns": "54,65",
+                        "endOffsets": "107,174"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,112",
+                        "endColumns": "56,67",
+                        "endOffsets": "107,175"
+                    }
+                }
+            ]
+        }
+    ]
+}
